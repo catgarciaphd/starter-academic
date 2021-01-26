@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Gerontology
     institution: University of Southern California
-    year: 2029
+    year: 2020
   - course: MS in Sociology
     institution: Florida State University
     year: 2014
