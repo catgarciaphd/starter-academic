@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Overall Research Agenda
+summary: Biopsychosocial Determinants of Health.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Biopsychosocial
+date: "2021-01-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -30,12 +30,10 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+I am a Gerontologist that studies Latina/o/x aging and health. The primary objective of my research is to inform efforts aimed at reducing race/ethnic health inequalities that characterize our growing older adult population. Specifically, I am interested in identifying how residential environments and sociocultural processes “get under the skin” to influence health by elucidating the complex association between neighborhood conditions, sociocultural factors, psychosocial factors, and physiological precursors to disease and functional health decline among Latina/o/xs.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+#### Current Project | Social Determinants of Diabetes
+Older Latina/o/xs are disproportionately affected by diabetes. Their higher prevalence of diabetes is largely understood as a product of individual-level health behaviors without much attention given to how the various adverse social factors, social disadvantages, and social inequalities influence the disease process. I use the social determinants of health and biopsychosocial framework to assess how sociocultural, cohort, and neighborhood factors influence the prevalence of diabetes among older Latina/o/xs.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+#### Current Project | Aging in Puerto Rico
+Puerto Rico has the highest proportion of older adults aged 65 and older compared to any U.S. state; and are characterized with high levels of social and economic deprivation, greater usage of healthcare services, and higher rates of chronic conditions. Puerto Ricans have experienced compounding environmental disasters in the last 10 years, have a crumbling health care infrastructure, and are in a debt crisis that may be negatively affecting the health and quality of life of older Puerto Ricans. Due to data limitations, relatively little is known about the health and aging experiences of older adults on the island. I am using the Puerto Rican Elderly Health Conditions Project (PREHCO) to contextualize the health and aging experiences of older adults on the main island.
