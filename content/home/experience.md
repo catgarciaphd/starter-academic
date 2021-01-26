@@ -29,5 +29,5 @@ experience:
     location: Nebraska
     date_start: '2020-08'
     date_end: ''
-    description: .
+    description: 
 ---
